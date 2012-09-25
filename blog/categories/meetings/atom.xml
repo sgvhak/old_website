@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: meetings | SGVHAK]]></title>
-  <link href="http://www.sgvhak.org/blog/categories/meetings/atom.xml" rel="self"/>
-  <link href="http://www.sgvhak.org/"/>
-  <updated>2012-09-24T20:23:06-07:00</updated>
-  <id>http://www.sgvhak.org/</id>
+  <link href="http://sgvhak.github.com/blog/categories/meetings/atom.xml" rel="self"/>
+  <link href="http://sgvhak.github.com/"/>
+  <updated>2012-09-24T22:52:55-07:00</updated>
+  <id>http://sgvhak.github.com/</id>
   <author>
     <name><![CDATA[]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[SGVHAK Kickoff]]></title>
-    <link href="http://www.sgvhak.org/blog/2012/09/20/raspberry-pi-etc-sig/"/>
+    <link href="http://sgvhak.github.com/blog/2012/09/20/raspberry-pi-etc-sig/"/>
     <updated>2012-09-20T00:00:00-07:00</updated>
-    <id>http://www.sgvhak.org/blog/2012/09/20/raspberry-pi-etc-sig</id>
+    <id>http://sgvhak.github.com/blog/2012/09/20/raspberry-pi-etc-sig</id>
     <content type="html"><![CDATA[<p><em>If you are interested in the group, please sign up for the <a href="http://sgvhak.net/mailman/listinfo/hak" title="SGVHAK Mailing List Sign Up">SGVHAK mailing list</a>. We will continue to crosspost announcements to the SGVLUG mailing list. We are in the process of setting up a website or subpage.</em></p>
 
 <p>Do you like working on hardware projects?  Did you just get a Raspberry Pi/Arduino/Kinect with the intentions of doing something cool?  Did you wish that there was a local meetup group where you can meet up with like-minded folks and actually make progress with your projects?</p>
