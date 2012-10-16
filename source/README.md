@@ -2,7 +2,7 @@
 
 ## Contributing
 
-This site uses [Octopress](http://octopress.org/). In order to contribute you must first [setup](http://octopress.org/docs/setup/) Octopress according to their [documentation](http://octopress.org/docs/).
+This site uses [Octopress](http://octopress.org/). In order to contribute you must first [setup](http://octopress.org/docs/setup/) Octopress according to their [documentation](http://octopress.org/docs/). Their documentation contains easy to follow step-by-step instructions for setting up and getting started using their software.
 
 The "master" branch is the Jekyll processed version of the site. It is the branch that will show this README when you view the website's Github source. Do not edit on this branch, instead edit on the "source" branch. To set up your clone of the site properly, perform the following steps:
 
