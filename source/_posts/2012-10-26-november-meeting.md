@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-__When__: Thursday, 11/01/2012 7-9 PM</br>
+__When__: Thursday, 11/01/2012 7-9 PM<br />
 __Where__: [Hastings Branch Library](http://cityofpasadena.net/library/about_the_library/hastings_branch/) (3325 East Orange Grove Boulevard  Pasadena, CA 91107)
 
 Connect with your fellow hardware geeks and share some of the projects you’ve been working on! 
