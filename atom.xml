@@ -4,7 +4,7 @@
   <title><![CDATA[SGVHAK]]></title>
   <link href="http://sgvhak.github.com/atom.xml" rel="self"/>
   <link href="http://sgvhak.github.com/"/>
-  <updated>2012-11-29T20:15:39-08:00</updated>
+  <updated>2013-01-09T07:35:28-08:00</updated>
   <id>http://sgvhak.github.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[SGVHAK General Meeting January]]></title>
+    <link href="http://sgvhak.github.com/blog/2013/01/03/january-meeting/"/>
+    <updated>2013-01-03T00:20:00-08:00</updated>
+    <id>http://sgvhak.github.com/blog/2013/01/03/january-meeting</id>
+    <content type="html"><![CDATA[<p><strong>When</strong>: Thursday, 01/03/2013 6:45 - 8:45 PM<br />
+<strong>Where</strong>: <a href="http://cityofpasadena.net/library/about_the_library/hastings_branch/">Hastings Branch Library</a> (3325 East Orange Grove Boulevard  Pasadena, CA 91107)</p>
+
+<p>Come find us at the meeting room near the circulation desk.</p>
+
+<p>These are hands-on working meetings.  There are tables, <a href="http://cityofpasadena.net/library/services/wifi/">free wifi</a>, and a group of knowledgeable people.  So come, bring your projects, show off your new toys, and just connect with your fellow hardware geeks.  There is even a projector if you want to do a mini-presentation.</p>
+
+<p>Remember to bring extension cords and power strips.  Multimeters and tools are nice.  The jury is still out on soldering irons.</p>
+
+<p>Disclaimer: &#8220;This program is not sponsored by the Pasadena Public Library.&#8221;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[SGVHAK General Meeting December]]></title>
