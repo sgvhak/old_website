@@ -3,8 +3,9 @@ body > header {
   h1 {
     display: inline-block;
     margin: 0;
+    margin-top: 0.15em;
     font-size: 2.7em;
-    padding-left: 0.1em;
+    padding-left: 0.2em;
     text-shadow: rgba(0, 0, 0, 0.8) 0 0 8px;
     float: left;
     a, a:visited, a:hover {
@@ -21,9 +22,12 @@ body > header {
     }
   }
   div#logo{
-    margin-top: 0.58em;
+    margin-bottom: 0.1em;
     font-size: 1.9em;
     color: #f9f9f9;
+  }
+  div#logo img {
+    height: 2.0em;
   }
   div#logoText{
     color: #f1f1f1;
