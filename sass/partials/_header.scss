@@ -22,7 +22,8 @@ body > header {
     }
   }
   div#logo{
-    margin-bottom: 0.1em;
+    margin-bottom: 0.2em;
+    margin-left: 0.1em;
     font-size: 1.9em;
     color: #f9f9f9;
   }
@@ -45,7 +46,7 @@ body > header {
     margin-left: -8px;
   }
   h2 {
-    margin: -10px 0 0 0;
+    margin: -6px 0 0 0;
     @extend .sans;
     font-size: 0.6em;
     color: $subtitle-color;
