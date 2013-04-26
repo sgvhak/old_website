@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SGVHAK General Meeting April"
+title: "SGVHAK General Meeting May"
 date: 2013-05-02 12:00
 comments: true
 categories: 
