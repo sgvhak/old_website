@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SGVHAK General Meeting April"
+title: "SGVHAK General Meeting May"
 date: 2013-05-02 12:00
 comments: true
 categories: 
@@ -14,6 +14,7 @@ Come find us at the meeting room near the circulation desk.
 These are hands-on working meetings. There are tables, free wifi, and a group of knowledgeable people. So come, bring your projects, show off your new toys, and just connect with your fellow hardware geeks. There is even a projector if you want to do a mini-presentation.
 
 This month:
+
 * Group discussions
 * Projects show off
 
